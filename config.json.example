@@ -1,0 +1,18 @@
+{
+  "storagePath": ".",
+  "videoFormat": "mp4",
+  "retryInterval": 60,
+  "quality": "1080p,720p",
+  "record": [
+    { 
+      "host": "twitch.tv",
+      "channels": [
+        "Maven",
+        "BradWOTO",
+        "Gladd",
+        "AnneMunnition",
+        "INTERRO"
+      ]
+    }
+  ]
+}
